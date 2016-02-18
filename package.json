@@ -1,0 +1,30 @@
+{
+  "name": "gulp-control-version",
+  "version": "1.0.0",
+  "description": "control version filename. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/semiromid/gulp-control-version"
+  },
+  "keywords": [
+    "version",
+    "file",
+    "version",
+    "filename",
+    "control",
+    "version",
+    "filename",
+    "version",
+    "control"
+  ],
+  "author": "IURII SEMIN (Riko Vironi)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/semiromid/gulp-control-version/issues"
+  },
+  "homepage": "https://github.com/semiromid/gulp-control-version"
+}
