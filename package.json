@@ -1,6 +1,6 @@
 {
   "name": "gulp-control-version",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "control version filename. ",
   "main": "index.js",
   "scripts": {
@@ -21,10 +21,10 @@
     "version",
     "control"
   ],
-  "author": "IURII SEMIN (Riko Vironi)",
+  "author": "Yuriy Svetlov",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/semiromid/gulp-control-version/issues"
+    "url": "https://github.com/Yuriy-Svetlov/gulp-control-version/issues"
   },
-  "homepage": "https://github.com/semiromid/gulp-control-version"
+  "homepage": "https://github.com/Yuriy-Svetlov/gulp-control-version"
 }
